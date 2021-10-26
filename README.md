@@ -1,6 +1,6 @@
 # fun-with-triangles
 
-fun with triangles is multi page app in which one can -\
+fun with triangles is multi page app in which one can -
 * check whether the given input angles form triangle or not.
 * quiz about the triangles.
 * calculate the Hypotenuse of the triangle.
